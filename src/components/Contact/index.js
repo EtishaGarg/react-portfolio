@@ -64,7 +64,6 @@ const Contact = () => {
           <br/>
           India,
           <br/>
-          VVIP Addresses, <br/>
           Raj Nagar Extension, Ghaziabad <br/>
           <span>gargetisha@gmail.com</span>
         </div>
